@@ -1,6 +1,16 @@
 
 ---
 
+- title: SIGIR
+  year: 2020
+  id: sigir20
+  link: https://sigir.org/sigir2020/
+  deadline: '2020-01-15 17:59:59'
+  timezone: Africa/Nairobi
+  date: July 25-31, 2020
+  place: Xi'an, China
+  sub: IR
+
 - title: ICLR
   year: 2020
   id: iclr20
